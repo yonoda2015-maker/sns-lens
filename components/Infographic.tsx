@@ -40,8 +40,8 @@ export default function Infographic({ data, platform }: Props) {
         style={{
           background: "#ffffff",
           fontFamily: FONT,
-          padding: "28px 20px 24px",
-          width: "460px",
+          padding: "32px 28px 28px",
+          width: "620px",
           margin: "0 auto",
           borderRadius: "16px",
           border: "3px solid #111",
